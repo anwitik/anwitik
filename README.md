@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi, my name is Anwiti.
+
+I am a student in Code2College Elite 101, learning software development.
+
+I am excited to build projects like StudySprint and improve my programming skills.
